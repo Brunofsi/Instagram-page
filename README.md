@@ -7,7 +7,7 @@
     <img src="img/print-instagram.png">
 </h1>
 
-Acesse clicando **[aqui](https://brunofsi.github.io/Instagram-page/)**
+#### Acesse clicando **[aqui](https://brunofsi.github.io/Instagram-page/)**
 ---
 
 ## Sobre
