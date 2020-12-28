@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="img/instagram-logo.png">
+    <img src="img/Instagram-name-logo.png">
 </h1>
+
 
 <h1 align="center">
     <img src="img/print-instagram.png">
